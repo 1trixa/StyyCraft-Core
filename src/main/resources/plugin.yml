@@ -1,0 +1,48 @@
+name: StyyCraftCore
+version: 1.0-SNAPSHOT
+main: eu.cuziamnoah.styycraftcore.StyyCraftCore
+authors: [CuziamNoah, Gilljan (Skull)]
+api-version: 1.16
+website: https://styycraft.net
+
+commands:
+  fly:
+    aliases:
+      - styycraftfly
+  teleport:
+    aliases:
+      - tp
+      - styycrafttp
+      - styycraftteleport
+  reward:
+    aliases:
+      - styycraftreward
+      - belohnung
+  feed:
+    aliases:
+      - hungerstillen
+      - styycraftfeed
+  heal:
+    aliases:
+      - styycraftheal
+      - heilen
+  clearchat:
+    aliases:
+      - chatclear
+      - cc
+  skull:
+    aliases:
+      - kopf
+      - head
+  day:
+    aliases:
+      - tag
+  glow:
+    aliases:
+      - leuchten
+  godmode:
+    aliases:
+      - godmode
+  random:
+    aliases:
+      - randomcmd
